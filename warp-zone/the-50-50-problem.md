@@ -1,5 +1,0 @@
-# The 50-50 Problem
-
-![The initial problem in Liquidity Provision ](../.gitbook/assets/Frame\_2\_4.png)
-
-This is the biggest problem in Yield farming is you have to split the principal amount into two equal values tokens so that you can be a liquidity provider. But like the values of some tokens vary like tides in the sea! To give an example, let's consider you want to be a liquidity provider, at first you have to make your tokens in an equal ratio of value which is always subjected to market change. So it is quite a hassle to balance your funds in an equal ratio so that you can enter the farm. To give an example, you want to farm a USDC-Polkadot Pool, you have 50 USDC in your wallet. Now you would have to split your USDC and Polkadot in equal ratios of value, let's say Polkadot is trading for 20$. Now you would need to swap some USDC tokens so that you can equal proportion of funds. So this is quite a tedious process! And also you’ll need to pay gas for swapping tokens and then balancing them accounting for market change. Hush! Even explaining that was tiresome.
