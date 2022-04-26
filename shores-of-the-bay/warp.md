@@ -28,15 +28,15 @@ WARP, by interacting with the Solarbeam DEX Router, converts the halves into the
 
 ![Liquidity provision in one transaction using WARP](../.gitbook/assets/https\_\_\_bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\_public\_images\_48504990-b8f7-4291-85c1-b61fc6f5124c\_752x576.png)
 
-Warp-In lets the user provide liquidity to any Solarbeam pool using any token.
+WARP-In lets the user provide liquidity to any Solarbeam pool using any token.
 
-Warp-Out lets the user remove liquidity from a pool and returns either one of the tokens present in the pool or MOVR, depending on the user's choice.
+WARP-Out lets the user remove liquidity from a pool and returns either one of the tokens present in the pool or MOVR, depending on the user's choice.
 
 ## Contract Address
 
 | Name     | Address                                                                                                                        |   |   |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------ | - | - |
-| Warp-In  | [0x244Db0a5E14928AE5bBE2f18F9ECeb064EB3507d](https://moonriver.moonscan.io/address/0x244Db0a5E14928AE5bBE2f18F9ECeb064EB3507d) |   |   |
-| Warp-Out | [0xC4Aa68FDBEB7406bB0e09Ac0a0B34a048ecfA673](https://moonriver.moonscan.io/address/0xC4Aa68FDBEB7406bB0e09Ac0a0B34a048ecfA673) |   |   |
+| WARP-In  | [0x244Db0a5E14928AE5bBE2f18F9ECeb064EB3507d](https://moonriver.moonscan.io/address/0x244Db0a5E14928AE5bBE2f18F9ECeb064EB3507d) |   |   |
+| WARP-Out | [0xC4Aa68FDBEB7406bB0e09Ac0a0B34a048ecfA673](https://moonriver.moonscan.io/address/0xC4Aa68FDBEB7406bB0e09Ac0a0B34a048ecfA673) |   |   |
 
 #### _****_
