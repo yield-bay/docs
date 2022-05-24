@@ -16,7 +16,7 @@ Liquidity pools are reserves of tokens secured in smart contracts. Their main go
 
 The biggest hassle with liquidity pools is that you need to deposit the required tokens in an exact 50:50 ratio. Becoming a liquidity provider requires multiple pre-calculated transactions making the process unnecessarily complex.
 
-![Standard flow of transactions in liquidity provision](../.gitbook/assets/https\_\_\_bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\_public\_images\_8b7e852b-7f5a-4056-971c-dc3c307d430b\_901x576.png)
+![Standard flow of transactions in liquidity provision](../../.gitbook/assets/https\_\_\_bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\_public\_images\_8b7e852b-7f5a-4056-971c-dc3c307d430b\_901x576.png)
 
 And this is where we come in. The user connects their wallet at YieldBay and _WARPs_ into the liquidity pool in a single transaction.
 
@@ -26,7 +26,7 @@ The user selects their desired pool from the list of active Solarbeam pools and 
 
 WARP, by interacting with the Solarbeam DEX Router, converts the halves into the two tokens needed to provide liquidity for that specific pool. After obtaining the required tokens, it puts them into the pool and transfers the LP tokens to you.
 
-![Liquidity provision in one transaction using WARP](../.gitbook/assets/https\_\_\_bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\_public\_images\_48504990-b8f7-4291-85c1-b61fc6f5124c\_752x576.png)
+![Liquidity provision in one transaction using WARP](../../.gitbook/assets/https\_\_\_bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\_public\_images\_48504990-b8f7-4291-85c1-b61fc6f5124c\_752x576.png)
 
 WARP-In lets the user provide liquidity to any Solarbeam pool using any token.
 
