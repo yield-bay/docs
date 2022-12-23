@@ -6,9 +6,13 @@ description: A relative rating system for yield farms listed on YieldBay
 
 ## Description
 
+The Safety Score is our own way of measuring farms on the basis of how "safe" they are to invest in. We use a varying range of parameters to get to these results, detailed below.&#x20;
+
 This algorithm arrives at a final score for each farm by summing up the parameters described below according to their weights.
 
 The final scores are then normalized to be more presentable & user-friendly.
+
+## Weightage Breakup
 
 | TVL        | 45% |
 | ---------- | --- |
@@ -61,13 +65,5 @@ Normalized percentile-based scores for the absolute USD value of rewards being d
 
 1. The highest reward USD value gets a score of 1.
 2. The score for the rest of the farms is calculated by dividing their reward USD value by the highest reward USD value.
-
-## Future Work <a href="#future-work" id="future-work"></a>
-
-This algorithm should eventually evolve to include parameters like:
-
-* Impermanent loss risk in the farm
-* Quality of assets in the farm
-* Etc.
 
 We’ve started sowing the seeds for the same by scoping out the work for a v2 of our [Assets Repository](https://github.com/yield-bay/assets) to include the data for the assets that we’d need to make the scoring algorithm more robust.\

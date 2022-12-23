@@ -1,3 +1,7 @@
+---
+description: The safe haven for Defi Degens
+---
+
 # 🏖 Shores of the Bay
 
 The shores of the Bay were cast with a magical spell that protects them from the destructive waves of the turbulent Dotsama sea.
